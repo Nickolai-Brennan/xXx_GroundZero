@@ -1,0 +1,9 @@
+.github/
+  copilot-instructions.md
+  agents/
+    codecleaner-architect.md
+  instructions/
+    markdown.instructions.md
+    frontend.instructions.md
+    backend.instructions.md
+    data.instructions.md
